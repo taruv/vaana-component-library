@@ -1,0 +1,40 @@
+.list-item-desktop {
+  width: 1100px;
+  height: 160px;
+  border: 1px solid #C8C8C8;
+  border-radius: 3px;
+  font-family: 'Verdana', sans-serif;
+  color: #404241;
+  margin-bottom: 10px
+}
+
+.first-column {
+  padding-left: 10px;
+  width: 50%;
+  text-align: left;
+  font-weight: normal
+}
+
+.second-column {
+  width: 10px;
+  font-weight: normal
+}
+
+.fourth-column {
+  width: 20%;
+  font-weight: normal;
+}
+
+.venue-title-desktop {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.venue-description-desktop-with-spacing {
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.venue-description-desktop {
+  font-size: 16px;
+}

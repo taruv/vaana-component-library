@@ -1,0 +1,126 @@
+{
+    "project_logo": "Vaana.svg",
+    "project_favicon": "favicon.svg",
+    "project_name": null,
+    "project_url": null,
+    "copyright_start_year": null,
+    "client_name": null,
+    "client_url": null,
+    "creators": [
+        {
+            "name": null,
+            "url": null
+        }
+    ],
+    "theme": {
+        "border_color": "#E0E6ED",
+        "highlight_color": "#FFFFFF",
+        "brand_color": "#FF5400",
+        "background_color": "#FFFFFF",
+        "code_highlight_theme": "github",
+        "override_code_highlight_bg": "#F9FAFC",
+        "sample_dark_background": "#333333",
+        "show_project_name": true,
+        "show_version": true,
+        "max_width": null,
+        "titles": {
+            "library_title": "Pattern Library",
+            "pages_title": "Overview",
+            "components_title": "Components"
+        }
+    },
+    "assets": {
+        "css": [
+          "app/css/branding.css",
+          "app/css/list-item.css"
+        ],
+        "js": []
+    },
+    "font_libraries": {
+        "typekit_code": null,
+        "typography_web_fonts": null,
+        "google_web_fonts": null
+    },
+    "content": {
+        "show_first_page_on_load": true,
+        "title": "Overview",
+        "pages": [
+            {
+                "name": "introduction",
+                "title": "Introduction",
+                "file": "./pages/intro.md"
+            }
+        ]
+    },
+    "groups": [
+        {
+            "name": "colour-scheme",
+            "title": "Branding",
+            "components": [
+                {
+                    "group": "colour-scheme",
+                    "name": "default",
+                    "title": "Colour Scheme",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "logo",
+                    "name": "default",
+                    "title": "Logo",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "icons",
+                    "name": "default",
+                    "title": "Icons",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "typography",
+                    "name": "default",
+                    "title": "Typography",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "list-item",
+            "title": "List",
+            "components": [
+                {
+                    "group": "list-item",
+                    "name": "default",
+                    "title": "List item",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "buttons",
+            "title": "Buttons",
+            "components": [
+                {
+                    "group": "buttons",
+                    "name": "default",
+                    "title": "Buttons",
+                    "options": {
+                        "sample_dark_background": false
+                    }
+                }
+            ]
+        }
+    ],
+    "version": "1.9.5"
+}
