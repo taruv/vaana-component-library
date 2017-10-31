@@ -32,7 +32,8 @@
     "assets": {
         "css": [
           "app/css/branding.css",
-          "app/css/list-item.css"
+          "app/css/list-item.css",
+          "app/css/buttons.css"
         ],
         "js": []
     },
@@ -116,7 +117,8 @@
                     "name": "default",
                     "title": "Buttons",
                     "options": {
-                        "sample_dark_background": false
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
                     }
                 }
             ]
