@@ -32,9 +32,26 @@
 
 .venue-description-desktop-with-spacing {
   font-size: 16px;
-  letter-spacing: 1px;
+  letter-spacing: 0.2px;
 }
 
 .venue-description-desktop {
   font-size: 16px;
+}
+
+.venue-icon {
+  height: 12px;
+}
+
+.venue-contactinfo-desktop {
+  font-size: 14px;
+}
+
+.comparable-value-desktop {
+  font-size: 24px;
+  color: #767676
+}
+
+.venue-arrow-icon {
+  height: 15px;
 }

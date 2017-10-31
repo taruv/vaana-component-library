@@ -39,7 +39,7 @@
     "font_libraries": {
         "typekit_code": null,
         "typography_web_fonts": null,
-        "google_web_fonts": null
+        "google_web_fonts": "Vollkorn"
     },
     "content": {
         "show_first_page_on_load": true,
