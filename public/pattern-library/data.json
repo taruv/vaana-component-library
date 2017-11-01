@@ -82,7 +82,14 @@
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
-                }, {
+                }
+            ]
+        },
+        {
+            "name": "typography",
+            "title": "Typography",
+            "components": [
+                {
                     "group": "typography",
                     "name": "default",
                     "title": "Typography",
@@ -90,17 +97,10 @@
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
-                }
-            ]
-        },
-        {
-            "name": "list-item",
-            "title": "List",
-            "components": [
-                {
-                    "group": "list-item",
+                }, {
+                    "group": "examples",
                     "name": "default",
-                    "title": "List item",
+                    "title": "Examples",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
@@ -109,13 +109,158 @@
             ]
         },
         {
-            "name": "buttons",
+            "name": "primary-button",
             "title": "Buttons",
             "components": [
                 {
-                    "group": "buttons",
+                    "group": "primary-button",
                     "name": "default",
-                    "title": "Buttons",
+                    "title": "Primary button",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "secondary-button",
+                    "name": "default",
+                    "title": "Secondary button",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "tertiary-button",
+                    "name": "default",
+                    "title": "Tertiary button",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "quarternary-button",
+                    "name": "default",
+                    "title": "Quarternary button",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "list-view-desktop",
+            "title": "List",
+            "components": [
+                {
+                    "group": "list-view-desktop",
+                    "name": "default",
+                    "title": "List view desktop",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "list-view-tablet",
+                    "name": "default",
+                    "title": "List view tablet",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "list-view-mobile",
+                    "name": "default",
+                    "title": "List view mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "list-item-desktop",
+                    "name": "default",
+                    "title": "List item desktop",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "list-item-tablet",
+                    "name": "default",
+                    "title": "List item tablet",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "list-item-mobile",
+                    "name": "default",
+                    "title": "List item mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        }, {
+            "name": "map-desktop",
+            "title": "Map",
+            "components": [
+                {
+                    "group": "map-desktop",
+                    "name": "default",
+                    "title": "Map desktop",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "map-tablet",
+                    "name": "default",
+                    "title": "Map tablet",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "map-mobile",
+                    "name": "default",
+                    "title": "Map mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        }, {
+            "name": "header-navigation",
+            "title": "Navigation",
+            "components": [
+                {
+                    "group": "header-navigation",
+                    "name": "default",
+                    "title": "Header navigation",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "footer-navigation",
+                    "name": "default",
+                    "title": "Footer navigation",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        }, {
+            "name": "search-fields",
+            "title": "Search fields",
+            "components": [
+                {
+                    "group": "search-fields",
+                    "name": "default",
+                    "title": "Search-fields",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
