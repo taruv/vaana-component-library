@@ -38,7 +38,7 @@
         "js": []
     },
     "font_libraries": {
-        "typekit_code": null,
+        "typekit_code": "https://use.typekit.net/rjt2hyr.js",
         "typography_web_fonts": null,
         "google_web_fonts": "Vollkorn"
     },
@@ -148,45 +148,43 @@
             ]
         },
         {
-            "name": "list-view-desktop",
-            "title": "List",
+            "name": "venue-card-desktop",
+            "title": "Venue cards desktop",
             "components": [
                 {
-                    "group": "list-view-desktop",
+                    "group": "venue-card-desktop",
                     "name": "default",
-                    "title": "List view desktop",
+                    "title": "Venue card desktop",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
                 }, {
-                    "group": "list-view-tablet",
+                    "group": "venue-card-with-image-desktop",
                     "name": "default",
-                    "title": "List view tablet",
+                    "title": "Venue card with an image desktop",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
                 }, {
-                    "group": "list-view-mobile",
+                    "group": "venue-card-with-image-and-button-desktop",
                     "name": "default",
-                    "title": "List view mobile",
+                    "title": "Venue card with an image and CTA-button desktop",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
-                }, {
-                    "group": "list-item-desktop",
+                }
+            ]
+        }, {
+            "name": "venue-card-tablet",
+            "title": "Venue cards tablet",
+            "components": [
+                {
+                    "group": "venue-card-tablet",
                     "name": "default",
-                    "title": "List item desktop",
-                    "options": {
-                        "sample_dark_background": false,
-                        "disable_code_sample": true
-                    }
-                }, {
-                    "group": "list-item-tablet",
-                    "name": "default",
-                    "title": "List item tablet",
+                    "title": "Venue card tablet",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true
@@ -195,6 +193,20 @@
                     "group": "list-item-mobile",
                     "name": "default",
                     "title": "List item mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }
+            ]
+        }, {
+            "name": "venue-card-mobile",
+            "title": "Venue cards mobile",
+            "components": [
+                {
+                    "group": "venue-card-mobile",
+                    "name": "default",
+                    "title": "Venue card mobile",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true

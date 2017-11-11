@@ -5,7 +5,7 @@
   border-radius: 5px;
   float: left;
   border: 1px solid #C8C8C8;
-  font-family: 'Verdana', sans-serif;
+  font-family: "scandia-web", sans-serif
 }
 
 .color-element {
@@ -98,8 +98,8 @@
 
 .typography {
   float: left;
-  font-family: 'Verdana', sans-serif;
-  height: 40px;
+  font-family: "scandia-web", sans-serif;
+  height: 60px;
   display: flex;
   align-items: flex-end;
   color: #404241
@@ -119,21 +119,30 @@
 }
 
 .title1 {
-  font-size: 24px;
+  font-size: 20px;
   color: #767676;
+  font-family: "scandia-web", sans-serif
 }
 
 .title2 {
   font-size: 18px;
   font-weight: bold;
+  font-family: "scandia-web", sans-serif
+  color: #404241;
+  letter-spacing: -0.02em
 }
 
 .body-text-regular {
   font-size: 16px;
+  font-family: "scandia-web", sans-serif
+  color: #404241;
+  letter-spacing: 0.03em;
 }
 
 .body-text-small {
   font-size: 14px;
+  font-family: "scandia-web", sans-serif
+  color: #404241
 }
 
 .clickable-text {
