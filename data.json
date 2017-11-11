@@ -190,9 +190,17 @@
                         "disable_code_sample": true
                     }
                 }, {
-                    "group": "list-item-mobile",
+                    "group": "venue-card-with-image-tablet",
                     "name": "default",
-                    "title": "List item mobile",
+                    "title": "Venue card with an image tablet",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "venue-card-with-image-and-button-tablet",
+                    "name": "default",
+                    "title": "Venue card with an image and CTA-button tablet",
                     "options": {
                         "sample_dark_background": false,
                         "disable_code_sample": true

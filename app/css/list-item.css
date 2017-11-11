@@ -86,3 +86,35 @@
 .venue-arrow-icon {
   height: 15px;
 }
+
+.list-item-tablet {
+  width: 700px;
+  color: #404241;
+  font-family: "scandia-web", sans-serif;
+  border-bottom: 1px solid #c8c8c8;
+  padding-bottom: 30px
+}
+
+.comparable-parameter-tablet {
+  float: left;
+  width: 33%;
+  padding-top: 20px
+
+}
+
+.venue-image-tablet {
+  float: left;
+  background-color: #767676;
+  width: 150px;
+  height: 150px;
+  font-size: 24px;
+  display: table-cell;
+  vertical-align: middle;
+  color: #c8c8c8;
+}
+
+.venue-info-with-image-tablet {
+  float: left;
+  width: 540px;
+  margin-left: 10px
+}
