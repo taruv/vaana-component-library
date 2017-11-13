@@ -219,6 +219,22 @@
                         "sample_dark_background": false,
                         "disable_code_sample": true
                     }
+                }, {
+                    "group": "venue-card-with-image-mobile",
+                    "name": "default",
+                    "title": "Venue card with an image mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
+                }, {
+                    "group": "venue-card-with-image-and-button-mobile",
+                    "name": "default",
+                    "title": "Venue card with an image and CTA-button mobile",
+                    "options": {
+                        "sample_dark_background": false,
+                        "disable_code_sample": true
+                    }
                 }
             ]
         }, {
