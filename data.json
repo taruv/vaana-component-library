@@ -112,7 +112,15 @@
             "name": "primary-button",
             "title": "Buttons",
             "components": [
-                {
+              {
+                  "group": "primary-secondary-button",
+                  "name": "default",
+                  "title": "Primary & Secondary buttons",
+                  "options": {
+                      "sample_dark_background": false,
+                      "disable_code_sample": true
+                  }
+              }, {
                     "group": "primary-button",
                     "name": "default",
                     "title": "Primary button",
