@@ -38,7 +38,7 @@
         "js": []
     },
     "font_libraries": {
-        "typekit_code": "https://use.typekit.net/rjt2hyr.js",
+        "typekit_code": "rjt2hyr",
         "typography_web_fonts": null,
         "google_web_fonts": "Vollkorn"
     },
