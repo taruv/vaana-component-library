@@ -121,33 +121,33 @@
 .title1 {
   font-size: 20px;
   color: #767676;
-  font-family: "scandia-web", sans-serif
+  font-family: "scandia-web", sans-serif;
 }
 
 .title1-green {
   font-size: 16px;
   color: #007F6C;
-  font-family: "scandia-web", sans-serif
+  font-family: "scandia-web", sans-serif;
 }
 
 .title2 {
   font-size: 18px;
   font-weight: bold;
-  font-family: "scandia-web", sans-serif
+  font-family: "scandia-web", sans-serif;
   color: #404241;
   letter-spacing: -0.02em
 }
 
 .body-text-regular {
   font-size: 16px;
-  font-family: "scandia-web", sans-serif
+  font-family: "scandia-web", sans-serif;
   color: #404241;
   letter-spacing: 0.03em;
 }
 
 .body-text-small {
   font-size: 14px;
-  font-family: "scandia-web", sans-serif
+  font-family: "scandia-web", sans-serif;
   color: #404241
 }
 
