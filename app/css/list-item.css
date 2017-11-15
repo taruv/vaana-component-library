@@ -90,6 +90,10 @@
   height: 13px;
 }
 
+.contact-icon {
+  height: 13px;
+}
+
 .venue-contactinfo-desktop {
   font-size: 16px;
   letter-spacing: 0.01em;
@@ -157,6 +161,15 @@
 .venue-tab-mobile {
   line-height: 40px;
   font-size: 16px;
+  letter-spacing: 0.03em;
+}
+
+.contact-tab-mobile {
+  line-height: 25px;
+  font-size: 14px;
+  font-family: "scandia-web", sans-serif;
+  color: #404241;
+  letter-spacing: 0.03em;
 }
 
 .venue-image-mobile {
